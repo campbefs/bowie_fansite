@@ -1,0 +1,31 @@
+body {
+    background-color: lightskyblue
+}
+
+h1 {
+    color:darkred;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+h2 {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+p {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 20px;
+    font-style:italic;
+}
+
+#movie {
+    border: 5px black;
+}
+
+
+#styledImage {
+    border: 5px black;
+    border-width: medium;
+    border-style: dotted;
+}
